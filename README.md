@@ -19,7 +19,7 @@ G5 will be utilising the inbuilt functionality of Github to manage the project. 
 2. Work item is converted to an issue
 3. Issue is assigned to a member
 4. Member completes work item
-5. Member commits work item to repo referencing issue number in the commit
+5. Member commits work item to the repo referencing issue number in the commit
     - To reference  an issue you can use # issue number (eg. #3 for issue 3). 
 6. Member closes issue and refernces commit in a closing comment on the issue
     - To refernce a commit sate the commits hash value (eg. ae8f303 )
@@ -29,6 +29,6 @@ G5 will be utilising the inbuilt functionality of Github to manage the project. 
 
 A style guide is avaiable on the shared google drive.
 
-### Document format
+### Document Format
 
 Submitted documents present better in PDF format. PDF is supported by web browsers meaning that a visitor will be able to view the document without downloading and opening with another application.
