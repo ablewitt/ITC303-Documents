@@ -22,7 +22,7 @@ G5 will be utilising the inbuilt functionality of Github to manage the project. 
 5. Member commits work item to the repo referencing issue number in the commit
     - To reference an issue, you can use # issue number (eg. #3 for issue 3). 
 6. Member closes issue and refernces commit in a closing comment on the issue
-    - To refernce a commit sate the commits hash value (eg. ae8f303)
+    - To reference a commit, state the commits hash value (eg. ae8f303)
 7. Member moves work item to the completed column
 
 ### Document Style
